@@ -45,6 +45,9 @@ As Linux was originally made for developers by developers, they have spent much 
 
 Linux allows user to change desktop design and themes, add widgets and more. These changes can be done with desktop environments. Different environments have different set of options. Some popular ones are : KDE, GNOME, XFCE, Pantheon.
 
+## Variety of Distros.
+Distros are software packages. These packages can be used to for distribution purpose and can be used to load different features and verities on the computer.
+
 ## It's Free.
 
 Hard to beat that!
